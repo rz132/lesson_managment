@@ -1,1 +1,14 @@
-.qodo
+# Node.js dependencies
+node_modules/
+
+# IDE/Editor files
+.vscode/
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Build folders
+frontend/dist/
+backend/dist/
